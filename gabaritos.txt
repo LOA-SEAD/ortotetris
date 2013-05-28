@@ -1,0 +1,24 @@
+﻿{
+    "c2array": true,
+    "size": [294,1,1],
+    "data":[ 
+	     [["EXCITAÇÃO"]],[["EXPULSÃO"]],[["SENSATEZ"]],[["MAUSOLÉU"]],[["PLEBISCITO"]],[["AÇÃOìAXILA"]],[["TRAIÇÃO"]],[["CANÇÃO"]],[["AGRESSÃO"]],[["CHEIROSO"]],[["EXCELÊNCIA"]],[["TEXTOìAÇO"]],[["FASCÍNIO"]],[["DETENÇÃO"]],[["PINÇAìSISO"]],
+	     [["EXCURSÃO"]],[["INSENSATEZ"]],[["INTENSIVO"]],[["MAISENA"]],[["FASCÍCULO"]],[["MIÇANGA"]],[["ENXAME"]],[["CENSURA"]],[["COCHICHO"]],[["MÁXIMO"]],[["EXCEÇÃO"]],[["EXTENSO"]],[["ESTENDER"]],[["RELAÇÃO"]],[["DISCUSSÃO"]],
+	     [["SINTAXE"]],[["ANÁLISE"]],[["PRETENSÃO"]],[["MUÇULMANO"]],[["ACRÉSCIMO"]],[["INTENÇÃO"]],[["EXCREÇÃO"]],[["CALVÍCIE"]],[["EXCOMUNGAR"]],[["DEMISSÃO"]],[["DESCENDER"]],[["POETISA"]],[["SENSOìNEXO"]],[["EXCEDENTE"]],[["CHUMAÇO"]],
+	     [["EXCESSIVO"]],[["INTUIÇÃO"]],[["EXÍLIO"]],[["ENXAQUECA"]],[["SEISCENTOS"]],[["VERSÃO"]],[["CAMPONESA"]],[["PRÓXIMO"]],[["EXPANSÃO"]],[["TORÇÃO"]],[["AÇAFRÃO"]],[["PAÇOCA"]],[["ACETINADO"]],[["GALINÁCEO"]],[["SALSICHA"]],
+	     [["EXCELENTE"]],[["EXCLUSÃO"]],[["AUXÍLIO"]],[["LAGARTIXA"]],[["LIXAìVERSO"]],[["FUSÃO"]],[["DISCENTE"]],[["FUNDIÇÃO"]],[["DESCER"]],[["SEÇÃO"]],[["PANÇA"]],[["MAÇARICO"]],[["CACHAÇA"]],[["ARCHOTE"]],[["BALIZA"]],
+	     [["EXCESSO"]],[["EXCÊNTRICO"]],[["EXCLUSIVA"]],[["ENXADA"]],[["EXAME"]],[["REPULSA"]],[["COISA"]],[["AVISO"]],[["NASCER"]],[["ELEIÇÃO"]],[["CRENÇA"]],[["ALMAÇO"]],[["TENSO"]],[["COLCHA"]],[["SAGAZ"]],
+	     [["PRAZER"]],[["APRENDIZ"]],[["XADREZ"]],[["TOCHA"]],[["CHAFARIZ"]],[["DOIDICE"]],[["ÁCIDO"]],[["INFRAÇÃO"]],[["CONTENÇÃO"]],[["CONFUSÃO"]],[["LOUSA"]],[["XERIFE"]],[["SEXTA"]],[["EXCETO"]],[["EXCLAMAÇÃO"]],
+	     [["EXCEDER"]],[["EXCLUIR"]],[["AXILA"]],[["SUSPENSÃO"]],[["ATRASO"]],[["ATENÇÃO"]],[["MACIÇO"]],[["PROGRESSÃO"]],[["ROSÁCEO"]],[["CACHIMBO"]],[["MAGREZA"]],[["PECHINCHA"]],[["MAGAZINE"]],[["ACIDENTE"]],[["FORMOSA"]],
+	     [["XAROPE"]],[["MEXILHÃO"]],[["INTENSO"]],[["LISONJEIRO"]],[["ESQUIVAR"]],[["RETENÇÃO"]],[["CIMENTO"]],[["TOLERÂNCIA"]],[["COMICHÃO"]],[["ARROZ"]],[["AMIZADE"]],[["ELIXIR"]],[["ACIRRADO"]],[["FICHA"]],[["TALVEZ"]],
+	     [["ENGRAXATE"]],[["VEXAME"]],[["HORROROSO"]],[["MOSAICO"]],[["MANUTENÇÃO"]],[["IMUNDÍCIE"]],[["EMUDECER"]], [["FECHO"]],[["CHUCHU"]],[["BELEZA"]],[["COLISÃO"]],[["REEDUCAÇÃO"]],[["LEMBRANÇA"]],[["MALÍCIA"]],[["FEROZ"]],[["EXCELÊNCIA"]],
+             [["EXCELSO"]],[["EXCITANTE"]],[["ASSADEIRA"]],[["ASSADO"]],[["ASSALTANTE"]],[["ASSALTO"]],[["ASSAR"]],[["ASSASSINO"]],[["ASSÉDIO"]],[["ASSUSTAR"]],[["ASSOVIO"]],[["ASSOPRO"]],[["ASSOCIAR"]],[["ASSOAR"]],[["ASSOALHO"]],[["ASSISTIR"]],
+             [["ASSISTENTE"]],[["ASSINADO"]],[["ASSIMILAR"]],[["ASSEXUADO"]],[["ASSESSOR"]],[["ADMISSÃO"]],[["CONFISSÃO"]],[["MISSÃO"]],[["OBSESSÃO"]],[["PROFISSÃO"]],[["REPRESSÃO"]],[["TRAVESSÃO"]],[["ACHADO"]],[["AZEVICHE"]],[["BRECHA"]],[["CAPRICHO"]],[["DEBOCHE"]],
+	     [["CONCHA"]],[["ESCULACHO"]],[["ESPICHADO"]],[["FLECHA"]],[["INCHADO"]],[["ROCHEDO"]],[["PREENCHER"]],[["BORRACHUDO"]],[["CHAVE"]],[["ASCENDER"]],[["CRESCER"]],[["FLORESCER"]],[["ENRUBESCER"]],[["RUBESCER"]],[["RUBORESCER"]],[["ABUSO"]],[["ACESO"]],[["APLAUSO"]],
+	     [["ARTESÃ"]],[["BASE"]],[["CATEQUESE"]],[["COESO"]],[["CONFUSO"]],[["CRASE"]],[["DESPESA"]],[["DIFUSO"]],[["DUQUESA"]],[["ÊNFASE"]],[["FRASE"]],[["HIPÓTESE"]],[["OBESO"]],[["PARAFUSO"]],[["PRESA"]],[["PRINCESA"]],[["SOBREMESA"]],[["SURPRESO"]],[["EXCLUSIVO"]],[["AMEIXA"]],
+             [["BAIXA"]],[["BRUXA"]],[["CAIXA"]],[["FAIXA"]],[["GRAXA"]],[["GUEIXA"]],[["QUEIXA"]],[["SOBRECOXA"]],[["TARRAXA"]],[["TROUXA"]],[["VAZAMENTO"]],[["ALTEZA"]],[["AGUDEZA"]],[["AVAREZA"]],[["CLAREZA"]],[["CRUEZA"]],[["DUREZA"]],[["FIRMEZA"]],[["INTEIREZA"]],[["MOLEZA"]],
+             [["NOBREZA"]],[["PROEZA"]],[["SUTILEZA"]],[["CORIZA"]],[["DESLIZE"]],[["AEROMOÇA"]],[["AMEAÇA"]],[["ARRUAÇA"]],[["CARROÇA"]],[["COURAÇA"]],[["FUMAÇA"]],[["MORDAÇA"]],[["PALHOÇA"]],[["TAÇA"]],[["VIDRAÇA"]],[["CEBOLA"]],[["CEGUEIRA"]],[["CEGONHA"]],
+	     [["CEIFADOR"]],[["CELEBRAÇÃO"]],[["CELEBRAR"]],[["CELEUMA"]],[["CELIBATO"]],[["CELOFANE"]],[["CELULÓIDE"]],[["CENOGRAFIA"]],[["CICATRIZ"]],[["CIRCENSE"]],[["CICLISTA"]],[["CIDADÃO"]],[["CIGARRA"]],[["CILADA"]],[["ATENCIOSO"]],[["AMBICIOSO"]],
+	     [["ASTUCIOSO"]],[["PRECIOSA"]],[["ADORMECIDO"]],[["AGRADECIDO"]],[["ENDURECIDO"]],[["CRESCENDO"]],[["VENCENDO"]],[["CENTENA"]],[["VORAZ"]],[["ALGOZ"]],[["CAPATAZ"]],[["CAFEZEIRO"]],[["CAJUZEIRO"]],[["CINZEIRO"]],[["ZONZEIRA"]],[["BOCHECHO"]],[["FECHAR"]],[["DENTUÇO"]]
+	   ]
+}

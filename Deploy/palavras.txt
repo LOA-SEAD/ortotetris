@@ -1,0 +1,27 @@
+﻿{
+    "c2array": true,
+    "size": [284,1,1],
+    "data":	[ 
+		  [["E00ITA0ÃOì"]],[["ììE0PUL0ÃO"]],[["ì0EN0ATE0ì"]],[["ììMAU0OLÉU"]],[["PLEBI00ITO"]],[["A0ÃOìA0ILA"]],[["ìììTRAI0ÃO"]],[["CAN0ÃOìììì"]],[["ììAGRE00ÃO"]],[["00EIRO0Oìì"]],[["E00ELÊN0IA"]],[["TE0TOìA0Oì"]],[["ììFA00ÍNIO"]],[["DETEN0ÃOìì"]],[["PIN0Aì0I0O"]],
+		  [["ììE0CUR0ÃO"]],[["IN0EN0ATE0"]],[["INTEN0IVOì"]],[["ìììMAI0ENA"]],[["ìFA00ÍCULO"]],[["ìììMI0ANGA"]],[["ììì0EN0URA"]],[["ìCO00I00Oì"]],[["MÁ0IMOìììì"]],[["E00E0ÃOììì"]],[["ìììE0TENSO"]],[["E0TENDERìì"]],[["ììRELA0ÃOì"]],[["ìDI0CU00ÃO"]],
+		  [["0INTA0Eììì"]],[["ììANÁLI0Eì"]],[["ìPRETEN0ÃO"]],[["MU0ULMANOì"]],[["ìACRÉ00IMO"]],[["ìINTEN0ÃOì"]],[["ìE00RE0ÃOì"]],[["ììCALVÍ0IE"]],[["E00OMUNGAR"]],[["ììDEMI00ÃO"]],[["DE00ENDERì"]],[["POETI0Aììì"]],[["0EN0OìNE0O"]],[["ìE00EDENTE"]],[["00UMA0Oììì"]],
+		  [["ìE00E00IVO"]],[["INTUI0ÃOìì"]],[["E0ÍLIOìììì"]],[["ìEN0AQUECA"]],[["SEI00ENTOS"]],[["ììììVER0ÃO"]],[["CAMPONE0Aì"]],[["ìììPRÓ0IMO"]],[["E0PAN0ÃOìì"]],[["ììììTOR0ÃO"]],[["A0AFRÃOììì"]],[["ìììPA0OCAì"]],[["A0ETINADOì"]],[["ìGALINÁ0EO"]],[["0AL0I00Aìì"]],
+		  [["ìE00ELENTE"]],[["E0CLU0ÃOìì"]],[["ìììAU0ÍLIO"]],[["LAGARTI0Aì"]],[["FU0ÃOììììì"]],[["ììDI00ENTE"]],[["FUNDI0ÃOìì"]],[["ììììDE00ER"]],[["SE0ÃOììììì"]],[["ìììììPAN0A"]],[["ììMA0ARICO"]],[["CA00A0Aììì"]],[["AR00OTEììì"]],[["ììììBALI0A"]],
+		  [["ìììE00E00O"]],[["E00ÊNTRICO"]],[["ìE0CLUSIVA"]],[["EN0ADAìììì"]],[["ìììììE0AME"]],[["REPUL0Aììì"]],[["ìììCOI0Aìì"]],[["AVI0Oììììì"]],[["ììììNA00ER"]],[["ELEI0ÃOììì"]],[["ììììCREN0A"]],[["ALMA0Oìììì"]],[["ìììììTEN0O"]],[["COL00Aìììì"]],[["ììììì0AGA0"]],
+	      [["PRA0ERìììì"]],[["ììAPRENDI0"]],[["ìì0ADRE0ìì"]],[["ìììTO00Aìì"]],[["00AFARI0ìì"]],[["ìììDOIDI0E"]],[["ììÁ0IDOììì"]],[["ìINFRA0ÃOì"]],[["CONTEN0ÃOì"]],[["ììCONFU0ÃO"]],[["ìììì0ERIFE"]],[["ììììE0CETO"]],[["E00LAMA0ÃO"]],
+		  [["ììE00EDERì"]],[["ììE0CLUIRì"]],[["ììA0ILAììì"]],[["ì0USPEN0ÃO"]],[["ììATRA0Oìì"]],[["ìATEN0ÃOìì"]],[["ììMA0I0Oìì"]],[["PROGRE00ÃO"]],[["ììRO0Á0EOì"]],[["CA00IMBOìì"]],[["ììMAGRE0Aì"]],[["ìPE00IN00A"]],[["MAGA0INEìì"]],[["ìA0IDENTEì"]],[["ììFORMO0Aì"]],
+		  [["ìì0AROPEìì"]],[["ììME0ILHÃO"]],[["ìINTEN0Oìì"]],[["LI0ONJEIRO"]],[["E0QUIVARìì"]],[["RETEN0ÃOìì"]],[["ìì0IMENTOì"]],[["TOLERÂN0IA"]],[["ìììARRO0ìì"]],[["ìAMI0ADEìì"]],[["ììELI0IRìì"]],[["ìA0IRRADOì"]],[["ììFI00Aììì"]],[["ììTALVE0ìì"]],
+		  [["ìENGRA0ATE"]],[["ìVE0AMEììì"]],[["HORRORO0Oì"]],[["ììMO0AICOì"]],[["MANUTEN0ÃO"]],[["ìIMUNDÍ0IE"]],[["ìEMUDE0ERì"]],[["ììFE00Oììì"]],[["ìì00U00Uìì"]],[["ììBELE0Aìì"]],[["ìCOLI0ÃOìì"]],[["REEDUCA0ÃO"]],[["LEMBRAN0Aì"]],[["ìMALÍ0IAìì"]],[["ììFERO0ììì"]],
+		  [["E00ELÊN0IA"]],[["E00EL0Oììì"]],[["E00ITANTEì"]],[["ìA00ADEIRA"]],[["A00ALTANTE"]],[["A00ALTOììì"]],[["A00A00INOì"]],[["ìììA00ÉDIO"]],[["A00USTARìì"]],[["ìììA00OVIO"]],[["A00OPROììì"]],[["A00O0IARìì"]],[["ììììA00OAR"]],
+		  [["A00OALHOìì"]],[["A00ISTIRìì"]],[["A00ISTENTE"]],[["A00INADOìì"]],[["A00IMILARì"]],[["ìA00E0UADO"]],[["A00E00ORìì"]],[["ììADMI00ÃO"]],[["CONFI00ÃOì"]],[["ììììMI00ÃO"]],[["OB0E00ÃOìì"]],[["PROFI00ÃOì"]],[["REPRE00ÃOì"]],[["ìTRAVE00ÃO"]],
+		  [["A0EVI00Eìì"]],[["ììììBRE00A"]],[["CAPRI00Oìì"]],[["DEBO00Eììì"]],[["ììììCON00A"]],[["ESCULA00Oì"]],[["ESPI00ADOì"]],[["FLE00Aìììì"]],[["ìììIN00ADO"]],[["ìììRO00EDO"]],[["PREEN00ERì"]],[["BORRA00UDO"]],[["ììììì00AVE"]],[["A00ENDERìì"]],[["CRE00ERììì"]],
+		  [["FLORE00ERì"]],[["ENRUBE00ER"]],[["RUBE00ERìì"]],[["RUBORE00ER"]],[["ABU0Oììììì"]],[["ìììììA0E0O"]],[["ìììAPLAU0O"]],[["ARTE0Ãìììì"]],[["BA0Eìììììì"]],[["CATEQUE0Eì"]],[["ìììììCOE0O"]],[["CONFU0Oììì"]],[["ìììììCRA0E"]],[["DESPE0Aììì"]],[["ììììDIFU0O"]],
+		  [["ìDUQUE0Aìì"]],[["ììÊNFA0Eìì"]],[["ììììFRA0Eì"]],[["ìHIPÓTE0Eì"]],[["ììOBE0Oììì"]],[["ìPARAFU0Oì"]],[["PRIN0E0Aìì"]],[["0OBREME0Aì"]],[["0URPRE0Oìì"]],[["EXCLU0IVOì"]],[["ìììAMEI0Aì"]],[["BAI0Aììììì"]],[["ìììììBRU0A"]],[["ììCAI0Aììì"]],
+		  [["ìììFAI0Aìì"]],[["ììGRA0Aììì"]],[["ìììGUEI0Aì"]],[["ììQUEI0Aìì"]],[["SOBRECO0Aì"]],[["ììTARRA0Aì"]],[["ììTROU0Aìì"]],[["VA0AMENTOì"]],[["ììALTE0Aìì"]],[["ìAGUDE0Aìì"]],[["ìAVARE0Aìì"]],[["ìCLARE0Aìì"]],[["ììCRUE0Aìì"]],[["ììDURE0Aìì"]],[["ìFIRME0Aìì"]],
+		  [["INTEIRE0Aì"]],[["ììMOLE0Aìì"]],[["ìNOBRE0Aìì"]],[["ììPROE0Aìì"]],[["0UTILE0Aìì"]],[["ììCORI0Aìì"]],[["ìDESLI0Eìì"]],[["AEROMO0Aìì"]],[["ììAMEA0Aìì"]],[["ìARRUA0Aìì"]],[["ìCARRO0Aìì"]],[["ìCOURA0Aìì"]],[["ììFUMA0Aìì"]],[["ìMORDA0Aìì"]],[["ìPALHO0Aìì"]],
+		  [["ììVIDRA0Aì"]],[["0EBOLAìììì"]],[["0EGUEIRAìì"]],[["ìì0EGONHAì"]],[["0EIFADORìì"]],[["0ELEBRA0ÃO"]],[["0ELEBRARìì"]],[["0ELEUMAììì"]],[["0ELIBATOìì"]],[["ìì0ELOFANE"]],[["0ELULÓIDEì"]],[["0ENOGRAFIA"]],[["0ICATRI0ìì"]],
+		  [["0IR0EN0Eìì"]],[["ìì0ICLISTA"]],[["0IDADÃOììì"]],[["ì0IGARRAìì"]],[["ììì0ILADAì"]],[["ATEN0IO0Oì"]],[["AMBI0IO0Oì"]],[["ASTU0IO0Oì"]],[["PRE0IO0Aìì"]],[["ADORME0IDO"]],[["AGRADE0IDO"]],[["ENDURE0IDO"]],[["CRE00ENDOì"]],[["VEN0ENDOìì"]],[["ìì0ENTENAì"]],
+		  [["VORA0ììììì"]],[["ììììALGO0ì"]],[["CAPATA0ììì"]],[["CAFE0EIROì"]],[["CAJU0EIROì"]],[["CIN0EIROìì"]],[["0ON0EIRAìì"]],[["BO00E00Oìì"]],[["ììFE00ARìì"]],[["DENTU0Oììì"]]
+		  
+  	]
+}

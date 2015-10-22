@@ -1,6 +1,6 @@
 ﻿{
     "c2array": true,
-    "size": [284,1,1],
+    "size": [275,1,1],
     "data":	[ 
 		  [["E00ITA0ÃOì"]],[["ììE0PUL0ÃO"]],[["ì0EN0ATE0ì"]],[["ììMAU0OLÉU"]],[["PLEBI00ITO"]],[["ìììTRAI0ÃO"]],
                   [["CAN0ÃOìììì"]],[["ììAGRE00ÃO"]],[["00EIRO0Oìì"]],[["E00ELÊN0IA"]],[["ììFA00ÍNIO"]],[["DETEN0ÃOìì"]],
